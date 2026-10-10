@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="#00f0ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Hydroponic / Greenhouse Sprout in Cyber Chamber -->
+  <path d="M24 42V26" stroke="#00f0ff" />
+  <path d="M24 26C24 18 16 14 10 16C10 24 16 28 24 26Z" fill="#00f0ff" fill-opacity="0.2" stroke="#00f0ff" />
+  <path d="M24 22C24 15 32 11 38 13C38 21 32 25 24 22Z" fill="#ff007f" fill-opacity="0.2" stroke="#ff007f" />
+  <path d="M12 42H36" stroke="#00f0ff" stroke-dasharray="2 2" />
+  <circle cx="24" cy="8" r="3" stroke="#ff007f" />
+  <path d="M6 38H42" stroke="#7928ca" stroke-opacity="0.6" />
+</svg>
