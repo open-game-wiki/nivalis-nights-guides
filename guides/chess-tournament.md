@@ -1,46 +1,25 @@
 ---
-title: "Nivalis Nights Chess Tournament: What Is Actually Confirmed by ION LANDS"
-description: "The cyberpunk chess tournament and NPC mini-games in Nivalis Nights: fact-checked developer details, Calypso Island qualifiers, and betting odds."
-category: "Mini-Games"
-badge: "VERIFIED IN-GAME DATA • PATCH 1.0"
-readingTime: "5 min read"
+title: "Chess Tournament: Rules & Match Notes"
+description: "The official overview confirms a chess tournament; locations, rewards and entry requirements still need current-build evidence."
+category: "Activities"
+badge: "SOURCES REVIEWED · 2026-10-13"
+readingTime: "3 min read"
 publishDate: "2026-09-24"
-icon: "trophy"
+reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## Fact-Checking the High-Stakes Chess Tournament
+## Prepare from the actual tournament screen
+A chess tournament is confirmed in the store description. Entry fees, qualification requirements and rewards are not established by that description, so this page does not invent a bracket or payout table.
 
-In the run-up to the launch of **Nivalis Nights**, widespread community rumors circulated regarding an elaborate cyberpunk chess championship. ION LANDS confirmed that interactive chess is indeed playable, functioning as both an atmospheric mini-game and a high-stakes wagering activity.
+## Keep a match record
+Record the opponent name shown, starting position, stated time controls and outcome. If the game presents an unusual rule, preserve the wording. Separate these observations from general chess strategy.
 
----
+## Review a loss
+Identify the first move that lost material or allowed a direct threat. Practising that position is more useful than assuming one opening defeats every NPC. For update-sensitive rule behavior, consult the [minigame notes](https://nivalis-nights.online/guides/chess-minigames/).
 
-## 1. Confirmed Developer Details vs. Speculation
+## Sources & scope
 
-| Feature | Official Status | Confirmed In-Game Implementation |
-| :--- | :--- | :--- |
-| **Interactive Holographic Chess** | **Verified** | Fully playable chess board in apartment parlors & Calypso Island club |
-| **Wagering & Betting Mechanics** | **Verified** | Wager 50 to 500 Credits against NPC opponents with scaling stakes |
-| **Calypso Island Invitational** | **Verified** | Elite tournament bracket requiring high social reputation to enter |
-| **Ranked Online Multiplayer** | **False (Single-Player)** | Matches are strictly against in-game AI characters |
+Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
----
-
-## 2. Where to Play Chess in Nivalis
-
-1. **Starter Apartment Board**:
-   - Practice basic board mechanics in your living quarters against simple CPU difficulty without risking credits.
-2. **The Calypso Island Casino Salon**:
-   - The primary venue for competitive matches. Challenging local grandmasters rewards exclusive apartment trophies and significant credit payouts.
-3. **Midtown Speakeasy Backrooms**:
-   - Underground bets against shady corporate deserters featuring rapid Blitz time-control clocks.
-
----
-
-## Frequently Asked Questions
-
-### Can I unlock trophies or furniture by winning chess matches?
-Yes! Winning the Calypso Island invitational awards the *Grandmaster's Holographic Trophy*, which can be displayed in your apartments for a prestigious decor buff.
-
-### Does losing chess matches deduct credits immediately?
-Yes, in wagering matches, the staked credits are immediately deducted if you resign or get checkmated.
+- [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)

@@ -1,49 +1,29 @@
 ---
-title: "Business Expansion Guide: From Noodle Cart to Multi-District Empire"
-description: "Scale your hospitality ventures in Nivalis. Commercial licensing, staff rosters, bouncer security against syndicate extortion, and cash flow compounding."
-category: "Business & Management"
-badge: "VERIFIED IN-GAME DATA • PATCH 1.0"
-readingTime: "7 min read"
+title: "Business Expansion: Costs & Restocking"
+description: "Plan a business expansion by checking venue costs, staffing and replenishment needs against your current game and budget."
+category: "Business"
+badge: "SOURCES REVIEWED · 2026-10-13"
+readingTime: "3 min read"
 publishDate: "2026-03-20"
+reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## 1. The Hospitality Career Progression: Tiers 1 through 4
+## Plan the next venue
+Restaurants and nightclubs are part of the game. Before expanding, review your existing venue's purchases, staffing and cash balance. This is budgeting advice; it is not a claim that a particular venue has the best return.
 
-Escaping your starting 100,000 Credit debt requires methodically scaling your commercial enterprises across city sectors:
+## Recheck management after updates
+The October 9 Update #4 introduced venue management controls for restocking quantities and a daily restocking budget. It also addressed lost ingredients and stacked deliveries. Old cash-flow advice may therefore depend on an earlier build.
 
-* **Tier 1: Street Noodle Cart**: Small footprint, direct customer interactions, low overhead. Serves basic shoyu noodles and green tea. Net daily profit: ~350 – 800 Credits.
-* **Tier 2: Ramen Noir Brick-and-Mortar**: Sit-down dining room with 6 tables and kitchen prep counter. Allows recipe experimentation and hiring a sous chef. Net daily profit: ~1,500 – 3,200 Credits.
-* **Tier 3: The Speakeasy Cocktail Lounge**: Unlocks alcohol service, craft cocktail margins (+350%), live jazz holograms, and VIP booths. Net daily profit: ~4,500 – 9,000 Credits.
-* **Tier 4: Multi-Story Cyberpunk Megaclub**: 3-floor nightclub venue featuring high-roller private sky-boxes, automated robotic bottle-service drones, and dance floors. Net daily profit: ~15,000 – 35,000 Credits.
+## Use observed cash flow
+Separate initial purchases from recurring costs. Compare more than one operating period before projecting earnings. The [business calculator](https://nivalis-nights.online/tools/business-calculator/) only performs arithmetic on the figures you enter; it does not simulate demand or staff behavior.
 
----
+## Sources & scope
 
-## 2. Staff Management & Payroll Efficiency
+Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
-As your venues expand, running every shift manually becomes impossible. Hiring the right employees is the key to maintaining 5-star customer reviews:
+- [Official updates, especially October 9](https://steamcommunity.com/app/1488490/announcements/?l=english)
 
-| Staff Role | Key Attribute to Look For | Recommended Wage | Critical Responsibility |
-| :--- | :--- | :--- | :--- |
-| **Sous Chef** | Speed & Culinary Precision | 180 Credits / shift | Prepares dishes without burning ingredients during peak dinner rushes |
-| **Mixologist** | Flair & Charm | 220 Credits / shift | Upsells high-margin vintage liquors; boosts guest alcohol spending |
-| **Floor Waiter** | Stamina & Courtesy | 110 Credits / shift | Clears dirty tables rapidly to maximize table turnover rates |
-| **Head Bouncer** | Intimidation & Perception | 260 Credits / shift | Identifies fake IDs, deters syndicate thugs, and calms belligerent drunks |
+## New source note — 2026-10-15
 
----
-
-## 3. Dealing with Syndicate Extortion & Protection Rackets
-
-Once your venue generates over **5,000 Credits per night**, local underworld syndicates will send enforcers demanding a 20% "protection tribute":
-
-1. **Option A: Pay the Bribe**: Safest option in the short term, but reduces your monthly profit margin and invites higher future demands.
-2. **Option B: Station Heavy Bouncers**: Hiring two Level 3 security bouncers triggers a physical intimidation check. If successful, syndicate thugs leave your patrons undisturbed.
-3. **Option C: Corporate Police Alliance**: Turn over recorded syndicate surveillance footage to Corporate Security. This permanently halts extortion in exchange for periodic corporate health inspections.
-
----
-
-## 4. Financial Compounding & Debt Payoff Strategy
-
-To liquidate your loan contract efficiently:
-* Never withdraw 100% of daily profits for personal luxury items. Reinvest **60% of net profits** into kitchen equipment upgrades and advertising flyers.
-* Use our interactive [Nightclub Profit Simulator](/nightclubs) to calculate your exact breakeven cover counts before signing expensive lease contracts.
+See the [new progression guide](/guides/tier-4-and-late-quests/) for media-reported checkpoints, source dates and build limitations. This addition does not imply that the earlier material was newly playtested.

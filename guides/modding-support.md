@@ -1,54 +1,26 @@
 ---
-title: "Will Nivalis Nights Be Moddable? Modding & Steam Workshop Guide"
-description: "Everything confirmed about Nivalis Nights modding: Unity engine architecture, Steam Workshop support, custom vehicle skins, and community tools."
-category: "Customization & Mods"
-badge: "VERIFIED IN-GAME DATA • PATCH 1.0"
-readingTime: "6 min read"
+title: "Mods: Support Status & Version Checks"
+description: "Check current official modding information and back up your save before experimenting; specific tools and compatibility need verification."
+category: "Technical"
+badge: "SOURCES REVIEWED · 2026-10-13"
+readingTime: "3 min read"
 publishDate: "2026-09-24"
-icon: "tools"
+reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## Engine Architecture & Modding Feasibility Overview
+## No roadmap promise here
+The official pages reviewed for this update do not establish a Steam Workshop launch plan or an official modding toolkit. The previous claim of a confirmed post-launch mod roadmap has been removed. This is a limit of the reviewed evidence, not proof that community mods cannot exist.
 
-With its dense voxel architecture, customizable apartments, and thriving cyberpunk waterways, community enthusiasm for modding **Nivalis Nights** is extraordinarily high. Developed by ION LANDS on the **Unity engine**, the underlying structure offers fertile ground for creative modders.
+## Before installing a community mod
+Read its supported game build, installation steps, dependencies and removal instructions. Keep a separate copy of saves before changing game files. A community download should not be described as developer-approved without an explicit source.
 
----
+## Diagnosing a problem
+When reporting a bug, state which mods were active and whether the issue also occurs without them. The official support post explains where game logs and saves are stored on Windows.
 
-## 1. Engine Tech Stack & Architecture
+## Sources & scope
 
-- **Unity Engine Backbone**: Like the developer's previous hit *Cloudpunk*, *Nivalis Nights* utilizes a specialized Unity rendering pipeline paired with custom voxel streaming systems.
-- **Data File Accessibility**: Game configurations, recipe stats, fish catch tables, and furniture parameters are organized in standardized Unity asset bundles and serialized data formats.
-- **Loader Compatibility**: Standard Unity community loaders (such as BepInEx and MelonLoader) can hook into game scripts to provide quality-of-life adjustments.
+Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
----
-
-## 2. Confirmed Status vs. Unverified Features
-
-| Modding Feature | Official Status | Developer Comments & Reality |
-| :--- | :--- | :--- |
-| **Unity Runtime Modding** | **Fully Feasible** | Standard community Unity injection tools function normally |
-| **Official Steam Workshop** | **Post-Launch Roadmap** | ION LANDS confirmed interest in community tools post-release |
-| **Local File Replacement** | **Verified** | Custom sound effects and localized text strings can be modified |
-| **Multiplayer / Co-op Mods** | **Unsupported** | Engine physics and NPC schedules are strictly single-player |
-
----
-
-## 3. Highly Anticipated Community Mod Categories
-
-1. **Custom HOVA Vehicle & Boat Skins**:
-   - Applying custom cyberpunk vinyls, racing stripes, and neon glow colors to your personal canal watercraft.
-2. **Expanded Interior Furniture & Wall Art**:
-   - Building atop the game's official base of 620+ furniture pieces with custom voxel chairs, neon signage, and anime posters.
-3. **Advanced Financial UI & HUD Overlays**:
-   - Adding expanded ledger graphs, per-minute net cash flow tickers, and automated low-stock warnings.
-
----
-
-## Frequently Asked Questions
-
-### Does using community mods disable Steam Achievements?
-Using third-party client injectors like BepInEx does not automatically disable Steam Achievements in Unity titles unless an anti-cheat module is present, which *Nivalis Nights* does not use.
-
-### Where will official mods be shared?
-Nexus Mods and the potential official Steam Workshop hub serve as primary hubs for verified community packs.
+- [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+- [Official support instructions](https://steamcommunity.com/app/1488490/discussions/0/583935357196971905/)
