@@ -2,15 +2,16 @@
 title: "PC Requirements: Official Minimum & Recommended"
 description: "Compare the official Steam minimum and recommended PC specifications, storage requirements and publisher-stated performance targets."
 category: "Technical"
-badge: "SOURCES REVIEWED · 2026-10-13"
+badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-09-24"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
 
 ## Requirements published on Steam
-The table below reflects the store listing checked on October 13, 2026. The performance targets are the publisher's descriptions, not benchmarks conducted by this site.
+Compare CPU, GPU, memory and storage before choosing your resolution and quality target. Performance targets below are publisher-stated.
 
 | Component | Minimum | Recommended |
 | --- | --- | --- |
@@ -25,8 +26,11 @@ The table below reflects the store listing checked on October 13, 2026. The perf
 ## Compare the whole system
 A GPU model alone is not a guarantee of performance. The official notes distinguish laptop from desktop GPUs. Check the live requirements and current performance updates; the table does not establish Steam Deck compatibility.
 
-## Sources & scope
+<details>
+<summary>Notes & sources</summary>
 
 Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+
+</details>

@@ -1,25 +1,29 @@
 ---
-title: "Recipes: Ingredients, Equipment & Menu Planning"
-description: "Check ingredients, equipment and menu requirements in your game; this guide explains what is known about cooking and sourcing."
+title: "Recipes: Ingredients, Equipment & Menus"
+description: "Match recipes to ingredients and equipment, then compare menu costs."
 category: "Business"
-badge: "SOURCES REVIEWED · 2026-10-13"
+badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-02"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
 
 ## Read the recipe before shopping
-The official food preview explains that dishes need recipes, ingredients and suitable equipment. It names examples including Cola Chicken, Summer Salad, Meridian Pizza and VegCoffee. It does not publish a complete ingredient-and-yield table.
+Check each unlocked recipe’s ingredients and required equipment. The food preview includes Cola Chicken, Summer Salad, Meridian Pizza and VegCoffee among the dishes to look for.
 
-## Build a recipe record
-For each recipe you have unlocked, record its displayed name, required ingredients, equipment, output quantity and the version tested. Keep purchase cost separate from selling price. Neither the number of portions nor profit follows from a dish's name.
+## Prepare the venue
+Compare the menu with available stock, processors and cooking equipment. When an order stalls, inspect the missing ingredient or workstation before buying more stock.
 
-## Compare menus fairly
-Compare the same operating period and count ingredient waste as well as purchases. Use [your own figures in the calculator](https://nivalis-nights.online/tools/business-calculator/); no recipe prices are preloaded here.
+## Compare menu costs
+Keep ingredient cost, portions sold and waste for the same operating period. Enter price and cost in the [profit planner](/tools/business-calculator/) to compare options.
 
-## Sources & scope
+<details>
+<summary>Notes & sources</summary>
 
 Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
 - [Official food preview, August 14](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+</details>

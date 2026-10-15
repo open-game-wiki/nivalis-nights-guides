@@ -12,7 +12,7 @@ Independent bilingual guide site for Nivalis Nights. Content sources reviewed on
 
 ## Tools and routes
 
-Existing English and Chinese routes remain available. Budget and harvest worksheets use user-entered observations without game presets. The catch notebook starts empty; it is not a species database. None of these tools predicts hidden mechanics.
+Existing English and Chinese routes remain available. Business and harvest planners use user inputs with clearly labeled example scenarios, explicit formulas and validation. The fish tool includes 24 explicitly attributed, independently unverified reference-site entries with filtering and catch progress. Personal records remain separate, support JSON backups, and retain the original freeform notebook. None of these tools predicts hidden mechanics. Search, topic hubs, saved pages and article navigation are available in English and Chinese.
 
 ## Sources
 

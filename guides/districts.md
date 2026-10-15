@@ -1,25 +1,29 @@
 ---
-title: "Districts: Exploration & Unlock Tracking"
-description: "Track district access using the objectives and landmarks in your game, with official updates as a reference for progression changes."
+title: "Districts: Access & Exploration Planning"
+description: "Check district access, note useful landmarks and plan a city route."
 category: "Exploration"
-badge: "SOURCES REVIEWED · 2026-10-13"
+badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-05"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## Track what your save can access
-Use the district names and unlock requirements shown in your current game. This page does not claim a complete city map, a district count or coordinates for hidden items.
+## Check access requirements
+Read the district name and access requirement in your current save. Keep locked destinations alongside the objectives you still need to complete.
 
-## Unlock thresholds can change
-The October 5 update rebalanced the achievement-point levels needed for districts and directed players to the in-game achievements window. A threshold copied from the launch build may no longer match.
+## Review progression after updates
+The October 5 update rebalanced district achievement-point thresholds. Check the in-game achievements window when an older requirement no longer matches.
 
-## Make a route note
-For each accessible district, record its displayed name, a transit connection, useful merchants and an unresolved objective. Separate a discovered location from a claim that you have explored every location.
+## Build a useful route
+For each accessible district, note transit connections, merchants and unfinished objectives. Group nearby tasks into a single outing.
 
-## Sources & scope
+<details>
+<summary>Notes & sources</summary>
 
 Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
 - [Official October 5 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+</details>

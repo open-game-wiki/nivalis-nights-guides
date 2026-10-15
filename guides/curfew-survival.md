@@ -1,25 +1,29 @@
 ---
-title: "Curfew: Security & Rival Sabotage"
-description: "Understand the officially described curfew and security risks, and check current prompts before following specific routes or timings."
+title: "Curfew: Security & Route Planning"
+description: "Prepare your route and supplies before curfew activities."
 category: "Life & Systems"
-badge: "SOURCES REVIEWED · 2026-10-13"
+badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-03-20"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## What the official description confirms
-Curfew involves security systems and opportunities to sabotage competitors; the store description also warns that rivals can do the same to you. It does not specify a universal start time, fine, stamina drain or guaranteed safe place.
+## Watch the current warning
+Read the on-screen curfew and security prompts before setting out. Rival sabotage is part of city life, so check your own venue as well as your destination.
 
-## Before taking a risk
-Read the current on-screen warning and quest instructions. Check the route back and record the version if you test a security interaction. A successful trip on one route does not establish immunity elsewhere.
+## Know the way back
+Check the destination, nearby landmarks and available return route. Keep the current quest instructions handy when an activity takes you into an unfamiliar area.
 
-## Avoid a false deadline
-This guide does not recommend a fixed return-home hour or a fixed cash reserve for a penalty. Treat the game's current prompts as the operational instructions until the exact rules are documented with a reproducible test.
+## Prepare before another attempt
+After an interrupted trip, note where the warning appeared and what stopped progress. Adjust the route or supplies before trying again.
 
-## Sources & scope
+<details>
+<summary>Notes & sources</summary>
 
 Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+
+</details>

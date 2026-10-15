@@ -2,9 +2,10 @@
 title: "Staff Management: Roles & Task Priorities"
 description: "Check staff assignments and current task priorities, and consult official updates when diagnosing work or restocking problems."
 category: "Business"
-badge: "SOURCES REVIEWED · 2026-10-13"
+badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-02"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
@@ -16,10 +17,21 @@ The October 2 update changed staff priorities. Serving a meal precedes ingredien
 Record the venue, assigned role, current task and reachable workstation. Compare that record against the current patch notes. Avoid assuming that an unseen task is a friendship or level unlock.
 
 ## Staffing and purchasing are separate
-Review the restocking budget as well as wages when diagnosing losses. The October 9 update changed venue management options. No fixed staffing ratio or level-based automation requirement is established on this page.
+Review the restocking budget as well as wages when diagnosing losses. The October 9 update changed venue management options. Adjust staffing to your seats and orders, starting with the slowest part of service.
 
-## Sources & scope
+## A practical service check
+1. Observe one busy period without changing assignments.
+2. Note which task stalls: taking orders, preparation, serving or cleanup.
+3. Check workstation access and required equipment.
+4. Adjust one assignment and repeat.
+
+Use the [loss checklist](/guides/manager-money-drain/) if sales and cash move in different directions.
+
+<details>
+<summary>Notes & sources</summary>
 
 Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
 - [Official October 2 and October 9 updates](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+</details>

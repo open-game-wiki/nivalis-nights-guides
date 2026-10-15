@@ -1,25 +1,29 @@
 ---
 title: "First Session: Tutorial & Venue Checklist"
-description: "Follow the tutorial and inspect your venue, objectives and supplies without relying on an untested timed walkthrough."
+description: "Work through tutorial objectives, prepare your venue and resolve common blockers."
 category: "Getting Started"
-badge: "SOURCES REVIEWED · 2026-10-13"
+badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-02"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## Follow the objective on screen
-Use the current quest text as the sequence of actions. We do not prescribe a minute-by-minute opening or a mandatory purchase list: those need a recorded playthrough for the current build.
+## Follow the current objective
+Read the objective before buying items. Check the requested quantity and destination, then complete that step before changing the venue setup.
 
-## If the tutorial will not advance
-Check the requested item, quantity and destination separately. Buying ingredients and putting them in venue inventory can be different objectives. The October 1 official patch addressed confusion around the shopping list and Fill Venue Inventory objective, and added detail for decorating Ramen Noir.
+## If the tutorial stalls
+Buying ingredients and filling venue inventory can be separate steps. Check both the quest and stock screens. The October 1 patch clarified shopping-list guidance and Ramen Noir decoration objectives.
 
-## Record a reproducible blocker
-Note the objective text, what you bought, where it was placed and your game version. A screenshot of the objective and inventory is more useful than repeating purchases. Check official patch notes before treating a blocked step as a missing mechanic.
+## Before expanding
+Match the menu to ingredients and equipment, observe one completed order, and separate spending from remaining stock. Continue with [staff management](/guides/staff-management/) and [restocking controls](/guides/venue-management-settings/).
 
-## Sources & scope
+<details>
+<summary>Notes & sources</summary>
 
 Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
 - [Official October 1 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+</details>

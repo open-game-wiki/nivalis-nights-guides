@@ -1,25 +1,29 @@
 ---
-title: "Customization: Homes, Venues & Scope"
-description: "Review the officially described home and venue customization features and check which choices your current version actually offers."
+title: "Decoration: Homes & Personal Spaces"
+description: "Choose decorations, check item attributes and plan your room layout."
 category: "Life & Systems"
-badge: "SOURCES REVIEWED · 2026-10-13"
+badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-09-24"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## Confirmed customization scope
-The store confirms decorating homes and spaces for friends. That does not by itself establish a character creator, clothing-stat system or equipment bonus.
+## Choose a style
+Start with the space you want to decorate: your home or a space for friends. Decide on a few key pieces and check their placement before filling the room.
 
-## Record a cosmetic option accurately
-When documenting an option, note its displayed category, where it is accessed, and whether it affects only appearance. Attach the item description before claiming a gameplay modifier.
+## Compare items
+Read the item description for size, cost and any listed function. Keep your decoration budget separate from the money needed to run a venue.
 
-## Choose the right guide
-For rooms and furnishing, see [apartments](https://nivalis-nights.online/guides/apartments/). For relationships, use [relationship notes](https://nivalis-nights.online/guides/romance-ava/). This page does not promise unconfirmed appearance sliders or fashion-based reputation rewards.
+## Continue planning
+Use [apartments and decoration](/guides/apartments/) for purchase planning, or browse [relationships and conversations](/guides/romance-ava/) for your next social objective.
 
-## Sources & scope
+<details>
+<summary>Notes & sources</summary>
 
 Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+
+</details>

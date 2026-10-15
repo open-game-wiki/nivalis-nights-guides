@@ -1,25 +1,29 @@
 ---
-title: "Chess Tournament: Rules & Match Notes"
-description: "The official overview confirms a chess tournament; locations, rewards and entry requirements still need current-build evidence."
+title: "Chess Tournament: Rules & Match Planning"
+description: "Prepare for entry, keep match notes and review your decisions."
 category: "Activities"
-badge: "SOURCES REVIEWED · 2026-10-13"
+badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-09-24"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## Prepare from the actual tournament screen
-A chess tournament is confirmed in the store description. Entry fees, qualification requirements and rewards are not established by that description, so this page does not invent a bracket or payout table.
+## Before entering
+Read the current tournament screen for entry requirements, fees and rewards. Set aside the entry budget before spending on other activities.
 
-## Keep a match record
-Record the opponent name shown, starting position, stated time controls and outcome. If the game presents an unusual rule, preserve the wording. Separate these observations from general chess strategy.
+## Keep useful match notes
+Record the opponent, time controls and result. Save a screenshot of a difficult position so you can revisit the decision after the match.
 
 ## Review a loss
-Identify the first move that lost material or allowed a direct threat. Practising that position is more useful than assuming one opening defeats every NPC. For update-sensitive rule behavior, consult the [minigame notes](https://nivalis-nights.online/guides/chess-minigames/).
+Find the first lost piece or missed threat and practise that position. For rule issues, check the [chess and minigame notes](/guides/chess-minigames/).
 
-## Sources & scope
+<details>
+<summary>Notes & sources</summary>
 
 Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+
+</details>

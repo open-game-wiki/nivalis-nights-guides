@@ -1,26 +1,30 @@
 ---
-title: "Apartments & Decoration: Planning Your Space"
-description: "Plan your home and decoration purchases using the options and prices visible in your save, without assuming a complete housing catalog."
+title: "Apartments & Decoration: Plan Your Space"
+description: "Plan a home purchase, furnishing budget and room layout."
 category: "Life & Systems"
-badge: "SOURCES REVIEWED · 2026-10-13"
+badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-03-20"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## Homes and decoration
-Buying and decorating homes is part of the official description, which also mentions decorating for friends. The reviewed sources do not establish an apartment total, price ladder or furniture-score formula.
+## Choose a space for your plans
+Compare the available homes by price, location and usable space. Think about the rooms you want to furnish before committing your budget.
 
-## Before committing to a purchase
-Check the current listing and available placement space in your game. Keep the property cost separate from furnishing costs when comparing options. This is a planning checklist, not a price guide.
+## Split the budget
+Keep property costs separate from furnishing costs. Buy the essentials first, then add decorative pieces as your venue income allows.
 
-## Decorative storage needs checking
-The October 2 patch fixed furniture with configured storage values not counting toward venue storage. Do not assume that every decorative item provides storage; check the item's actual attributes and whether you are furnishing a home or a venue.
+## Read furniture attributes
+Check an item’s storage attributes and placement requirements. The October 2 update fixed storage furniture not counting toward venue capacity; home decoration and venue storage serve different needs.
 
-## Sources & scope
+<details>
+<summary>Notes & sources</summary>
 
 Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 - [Official October 2 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+</details>

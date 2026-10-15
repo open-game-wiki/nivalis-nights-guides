@@ -1,26 +1,30 @@
 ---
-title: "Mods: Support Status & Version Checks"
-description: "Check current official modding information and back up your save before experimenting; specific tools and compatibility need verification."
+title: "Mods: Installation & Version Checks"
+description: "Check compatibility, back up saves and troubleshoot a modded game."
 category: "Technical"
-badge: "SOURCES REVIEWED · 2026-10-13"
+badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-09-24"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## No roadmap promise here
-The official pages reviewed for this update do not establish a Steam Workshop launch plan or an official modding toolkit. The previous claim of a confirmed post-launch mod roadmap has been removed. This is a limit of the reviewed evidence, not proof that community mods cannot exist.
+## Check compatibility first
+Read the mod’s supported build, dependencies, installation steps and removal instructions. Compare them with your installed game before changing files.
 
-## Before installing a community mod
-Read its supported game build, installation steps, dependencies and removal instructions. Keep a separate copy of saves before changing game files. A community download should not be described as developer-approved without an explicit source.
+## Keep a clean backup
+Back up saves separately before installing. Add one mod at a time so you can identify which change caused a problem. Keep the original files needed for removal.
 
-## Diagnosing a problem
-When reporting a bug, state which mods were active and whether the issue also occurs without them. The official support post explains where game logs and saves are stored on Windows.
+## Troubleshoot a problem
+Check whether the issue persists with mods disabled. When asking for help, include the game build, mod list and steps. The official support post explains where Windows logs and saves are stored.
 
-## Sources & scope
+<details>
+<summary>Notes & sources</summary>
 
 Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 - [Official support instructions](https://steamcommunity.com/app/1488490/discussions/0/583935357196971905/)
+
+</details>

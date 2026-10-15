@@ -1,26 +1,30 @@
 ---
-title: "Achievements: Tracking Progress & Version Changes"
-description: "Use Steam's achievement list to plan your own checklist; this guide does not claim a complete route or guarantee no missable tasks."
+title: "Achievements: Plan and Track Your Progress"
+description: "Organize achievement goals, check district requirements and troubleshoot an unlock."
 category: "Progress"
-badge: "SOURCES REVIEWED · 2026-10-13"
+badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-09-29"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## Start with the current list
-Steam achievements are listed as a game feature. This page is a tracking guide, not a complete achievement database. It does not assert an achievement total, completion time or that nothing is missable.
+## Build your checklist
+Open the Steam achievement list and pick the goals you want to pursue next. Keep story objectives in a separate spoiler section and save before important decisions.
 
-## Separate Steam and in-game progress
-Check Steam's achievement list and the game's own achievements window. The October 5 patch changed district achievement-point thresholds. A district unlock requirement is not automatically the same as a Steam achievement condition.
+## Check district progress separately
+Compare Steam achievements with the in-game achievements window. The October 5 update changed district achievement-point thresholds, so read the requirement shown in your current save.
 
-## Record an unlock
-Keep the exact achievement title, condition text, action that triggered it and build. Mark story-related notes as spoilers. If an achievement fails to unlock, report the observed steps rather than adding an assumed hidden requirement.
+## When an unlock does not appear
+Check the exact condition and whether the final action completed. Keep the title, steps, game build and screenshots together if you need to report a problem.
 
-## Sources & scope
+<details>
+<summary>Notes & sources</summary>
 
 Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 - [Official October 5 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+</details>

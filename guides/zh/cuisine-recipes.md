@@ -1,25 +1,29 @@
 ---
 title: "菜谱：原料、设备与菜单整理"
-description: "整理菜谱、原料与设备需求，了解官方已确认的食材采购和种植玩法，以及尚待核实的配方数据。"
+description: "把菜谱与原料、设备对应起来，比较菜单成本。"
 category: "Business"
-badge: "来源复核 · 2026-10-13"
+badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-02"
+updatedDate: "2026-10-15"
 reviewDate: "2026-10-13"
 lang: "zh"
 ---
 
-## 买原料前先看菜谱
-官方菜单介绍确认料理需要配方、原料及对应设备，并举出 Cola Chicken、Summer Salad、Meridian Pizza、VegCoffee 等例子；该公告没有公布完整的原料与产量表。
+## 采购前先看菜谱
+查看已解锁菜谱所需的原料和设备。菜单预告展示过 Cola Chicken、Summer Salad、Meridian Pizza 和 VegCoffee 等料理。
 
-## 怎样整理菜谱
-对已解锁菜谱记录游戏内名称、原料、设备、实际产量和测试版本。采购成本与售价分开记，不能根据菜名推断份数和利润。
+## 核对店铺准备情况
+将菜单与库存、加工和烹饪设备逐项核对。订单停滞时，先检查缺少的原料或工作站，再决定是否补货。
 
-## 怎样比较菜单
-选择相同经营时段比较，并把损耗和采购支出一起记入。可在[自填计算器](https://nivalis-nights.online/zh/tools/business-calculator/)输入自己的记录，本站不预置未经核实的菜品价格。
+## 比较菜单开销
+按同一营业周期记录原料成本、售出份数和损耗。在[利润规划器](/zh/tools/business-calculator/)中输入售价与成本，比较不同方案。
 
-## 来源与范围
+<details>
+<summary>资料说明与来源</summary>
 
 官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
 - [Official food preview, August 14](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+</details>
