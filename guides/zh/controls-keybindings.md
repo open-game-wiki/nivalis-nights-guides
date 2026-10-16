@@ -1,6 +1,6 @@
 ---
 title: "键鼠与手柄操作速查"
-description: "查询常用移动、互动、地图与背包操作，开始下一次游玩。"
+description: "查询 Nivalis Nights 键鼠与手柄操作：移动、互动、背包、地图、日志和购物清单，按游戏设置核对当前绑定。"
 category: "Getting Started"
 publishDate: "2026-10-16"
 updatedDate: "2026-10-16"

@@ -1,6 +1,6 @@
 ---
 title: "城区：解锁与探索安排"
-description: "检查城区开放条件，整理实用地标并规划路线。"
+description: "查看官方更新提到的 Nivalis Nights 城区与地标，核对进入条件，规划店铺、温室和角色任务之间的出行路线。"
 category: "Exploration"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
@@ -10,20 +10,38 @@ reviewDate: "2026-10-13"
 lang: "zh"
 ---
 
-## 查看开放条件
-查看当前存档中的城区名和进入要求，把尚未开放的目的地与待完成目标记在一起。
+## 城市目的地索引
+以下地点均有对应的 Steam 到访成就。保留英文地名方便对照游戏地图和日志；本表是目的地索引，不是绘制地图，也不列未经核实的解锁费用。
 
-## 更新后核对进度
-10 月 5 日更新调整了城区成就点门槛。旧版要求对不上时，查看游戏内成就窗口。
+| 目的地 | 出发前确认 |
+| --- | --- |
+| Calypso Island | 地图进入条件与当前日志目标 |
+| Central Canyon | 地图进入条件与当前日志目标 |
+| Docks | 地图进入条件与当前日志目标 |
+| Eastern Residential | 地图进入条件与当前日志目标 |
+| Helix Monumental | 地图进入条件与当前日志目标 |
+| Hive Mall | 地图进入条件与当前日志目标 |
+| Industrial District | 地图进入条件与当前日志目标 |
+| Lowtown | 地图进入条件与当前日志目标 |
+| Meridian Market | 地图进入条件与当前日志目标 |
+| Metro Hub | 地图进入条件与当前日志目标 |
+| Mountain Town | 地图进入条件与当前日志目标 |
+| Oil Rig | 地图进入条件与当前日志目标 |
+| Seaside Boardwalk | 地图进入条件与当前日志目标 |
+| Sewers | 地图进入条件与当前日志目标 |
+| Skyhigh Gardens | 地图进入条件与当前日志目标 |
+| Space Port | 地图进入条件与当前日志目标 |
+| Spire | 地图进入条件与当前日志目标 |
+| The Stacks | 地图进入条件与当前日志目标 |
 
-## 整理实用路线
-为已开放城区记下交通连接、商户和未完成目标，把相邻任务合并为一次出行。
+## 把目的地排成一条路线
+先选择当前任务目的地，再把同一区域的采购和店铺检查放进同一次出行。出发前记下返程路线，为下一轮营业保留运营资金。未探索和未解锁是两种情况，任务走不通时先看地图的进入条件。
 
-<details>
-<summary>资料说明与来源</summary>
+官方[城市旅游手册](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695572)可作为视觉参考。交通方式查看[城市出行](/zh/guides/transportation/)。
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
+## 旧攻略的门槛与游戏不一致时
+Update 3 调整过城区成就点门槛。先核对当前游戏界面的要求与[更新记录](/zh/guides/patch-notes/)，再继续旧路线；Steam 到访成就和游戏内城区进度不是同一个计数器。
 
-- [Official October 5 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
-
-</details>
+## 来源
+- [Steam 地点成就](https://steamcommunity.com/stats/1488490/achievements/?l=english)，核对于 2026-10-16。
+- [官方 Update 3](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393863)。

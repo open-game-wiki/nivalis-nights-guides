@@ -1,6 +1,6 @@
 ---
 title: "首次游玩：教学任务与店铺检查表"
-description: "逐项完成教学目标，准备店铺并排查常见卡点。"
+description: "Nivalis Nights 首小时开店指南：检查采购、库存和人员安排，结合配图与官方预告准备第一次营业。"
 category: "Getting Started"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
@@ -22,8 +22,8 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Official October 1 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+- [官方 October 1 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
 
 </details>

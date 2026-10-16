@@ -1,13 +1,13 @@
 ---
 title: "Tier 4 Venues & Late Quest Notes"
-description: "Plan your Tier 4 licence and follow late quest checkpoints. Contains ending spoilers."
+description: "Plan Nivalis Nights Tier 4 venue progression and follow late Thaddeus and Where Is Ava quest checkpoints, with ending spoilers kept separate."
 category: "Progression"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-15"
 icon: "flashlight"
 lang: "en"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 ---
 

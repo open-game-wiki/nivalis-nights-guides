@@ -1,29 +1,28 @@
 ---
-title: "Decoration: Homes & Personal Spaces"
-description: "Choose decorations, check item attributes and plan your room layout."
+title: "Character Customization: Can You Change Your Appearance?"
+description: "Can you customize your character in Nivalis Nights? Check the official answer, first-person perspective, and what home decoration does allow."
 category: "Life & Systems"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-09-24"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## Choose a style
-Start with the space you want to decorate: your home or a space for friends. Decide on a few key pieces and check their placement before filling the room.
+## Can you change your character's appearance?
+The developer FAQ says **Nivalis Nights does not offer character customization**. It uses a first-person perspective, with arms and hands visible. There is no supported character creator described in that FAQ.
 
-## Compare items
-Read the item description for size, cost and any listed function. Keep your decoration budget separate from the money needed to run a venue.
+## Character appearance and home decoration are different
 
-## Continue planning
-Use [apartments and decoration](/guides/apartments/) for purchase planning, or browse [relationships and conversations](/guides/romance-ava/) for your next social objective.
+| What you want to change | Where to go next |
+| --- | --- |
+| Your character's face or avatar | The current official FAQ lists no character creator |
+| Furniture, paintings and lighting | Read [apartments and decoration](/guides/apartments/) |
+| A client's living space | Follow the active decoration quest and its stated requirements |
+| Camera comfort | Compare [camera and accessibility settings](/guides/motion-sickness-accessibility/) |
 
-<details>
-<summary>Notes & sources</summary>
+If a community mod advertises additional customization, check its supported game build and back up your saves before installing it. A mod's feature list is separate from the base game's options.
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
-
-- [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
-
-</details>
+## Source
+[Developer FAQ — character customization](https://steamcommunity.com/app/1488490/discussions/0/598530855994991183/), checked October 16, 2026.

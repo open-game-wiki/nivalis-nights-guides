@@ -1,33 +1,26 @@
 ---
 title: "更新记录与攻略适用版本"
-description: "快速核对版本变化与需要重新检查的攻略。"
+description: "按日期和系统查看 Nivalis Nights Update 1–5：补货、温室自动化、性能、存档与任务修复，以及需要复查的攻略。"
 category: "Updates"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 lang: "zh"
 ---
 
-## 按你正在使用的系统查更新
-官方公告目录列出 2026 年 10 月 2 日更新 #2、10 月 5 日更新 #3 与 10 月 9 日更新 #4。完整改动请以开发者公告为准。
+## Update 1–5 更新摘要
 
-| 关注问题 | 对应攻略 |
-| --- | --- |
-| 补货设置 | [店铺补货与预算](/zh/guides/venue-management-settings/) |
-| 员工分工 | [员工管理](/zh/guides/staff-management/) |
-| 经营亏损 | [经理支出排查](/zh/guides/manager-money-drain/) |
-| 后期进度 | [Tier 4 与剧情笔记](/zh/guides/tier-4-and-late-quests/) |
+| 更新 | 日期 | 主要影响 |
+| --- | --- | --- |
+| [Update 1](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656381773) | 2026-10-01 | 镜头重复载入后的性能、王车易位规则，以及开局目标说明。 |
+| [Update 2](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386240) | 2026-10-02 | 员工任务与原料处理修复，以及界面和性能改进。 |
+| [Update 3](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393863) | 2026-10-05 | 调整城区成就点门槛。 |
+| [Update 4](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933485) | 2026-10-09 | 新增补货档位与每日预算，降低出行内存占用。 |
+| [Update 5](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678000) | 2026-10-15 | 温室自动化与库存供应；缩小存档，修复任务与性能问题。 |
 
-## 使用流程攻略之前
-记下游戏版本，与攻略标注的范围比较。进入重要剧情前保留独立存档。
+## 先复查哪些设置
+更新后打开店铺设置，核对补货档位、每日预算和温室库存选项；经营记录要分开比较更新前后。随后检查当前任务日志、库存和存档能否正常读取。
 
-<details><summary>更新以后店铺一定赚钱吗？</summary><p>不一定。应分别检查收入、成本与员工，用规划器比较自己的记录。</p></details>
-
-<details>
-<summary>资料说明与来源</summary>
-
-[开发者更新公告](https://steamcommunity.com/app/1488490/announcements/?l=english)，复核日期：2026 年 10 月 15 日。
-
-</details>
+温室自动化见[种植攻略](/zh/guides/greenhouse-farming/)，采购问题见[补货设置](/zh/guides/venue-management-settings/)，崩溃和卡顿见[性能排查](/zh/guides/performance-troubleshooting/)。表中链接是官方完整更新记录，摘要只列与攻略使用相关的变化。

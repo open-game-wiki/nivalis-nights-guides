@@ -1,11 +1,11 @@
 ---
 title: "Chess Tournament: Rules & Match Planning"
-description: "Prepare for entry, keep match notes and review your decisions."
+description: "Prepare for the Nivalis Nights chess tournament with a review checklist for legal moves, threats and lost positions, plus links to recent fixes."
 category: "Activities"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-09-24"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
@@ -22,7 +22,7 @@ Find the first lost piece or missed threat and practise that position. For rule 
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 

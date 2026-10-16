@@ -1,11 +1,11 @@
 ---
 title: "Achievements: Plan and Track Your Progress"
-description: "Organize achievement goals, check district requirements and troubleshoot an unlock."
+description: "Browse Nivalis Nights Steam achievements, separate story spoilers from collection goals, and check district progress and unlock troubleshooting."
 category: "Progress"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-09-29"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
@@ -22,7 +22,7 @@ Check the exact condition and whether the final action completed. Keep the title
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 - [Official October 5 update](https://steamcommunity.com/app/1488490/announcements/?l=english)

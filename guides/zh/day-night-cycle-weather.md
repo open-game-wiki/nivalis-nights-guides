@@ -1,11 +1,11 @@
 ---
 title: "时间与天气：安排城市活动"
-description: "结合城市时钟和天气变化，安排下一次出行。"
+description: "按 Nivalis Nights 昼夜与天气安排出行，记录观察条件，把附近的采购与任务合并到同一条路线。"
 category: "Life & Systems"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-09-24"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "zh"
 ---
@@ -22,8 +22,8 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+
+- [Steam 商店](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 
 </details>

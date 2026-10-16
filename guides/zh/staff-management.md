@@ -1,6 +1,6 @@
 ---
 title: "员工管理：分工与任务优先级"
-description: "检查员工分工与当前任务优先级，结合官方更新排查工作安排和补货问题。"
+description: "安排 Nivalis Nights 员工岗位与任务优先级，核对工作量和工资，招聘前先排查订单阻塞及工作流问题。"
 category: "Business"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
@@ -30,8 +30,8 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Official October 2 and October 9 updates](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+- [官方 October 2 and October 9 updates](https://steamcommunity.com/app/1488490/announcements/?l=english)
 
 </details>

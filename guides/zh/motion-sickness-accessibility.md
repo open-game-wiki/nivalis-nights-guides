@@ -1,11 +1,11 @@
 ---
 title: "镜头舒适度与无障碍设置检查"
-description: "用可重复的短路线比较镜头、输入和显示设置。"
+description: "Nivalis Nights 镜头与无障碍设置：用同一条短路线比较镜头、输入和显示选项，寻找更舒适的游玩方案。"
 category: "Technical"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 lang: "zh"
 ---

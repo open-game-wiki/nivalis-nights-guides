@@ -1,6 +1,6 @@
 ---
 title: "Plan a Day in Nivalis"
-description: "Plan business tasks, city trips and conversations around your next objective."
+description: "Plan a day in Nivalis Nights around venue checks, shopping, travel and character quests, with an official video and links for each activity."
 category: "Getting Started"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
@@ -22,7 +22,7 @@ At the end of the session, note the next action and any missing item. Return to 
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Official September 4 preview](https://steamcommunity.com/app/1488490/announcements/?l=english)
 

@@ -1,11 +1,11 @@
 ---
 title: "Manager spending and venue loss checklist"
-description: "Separate restocking expenses from low revenue before changing a venue."
+description: "Troubleshoot Nivalis Nights managers spending too much on ingredients: compare restocking, budgets, missing stock and daily venue cash flow."
 category: "Business"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 lang: "en"
 ---

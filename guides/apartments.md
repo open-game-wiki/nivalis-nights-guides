@@ -1,6 +1,6 @@
 ---
 title: "Apartments & Decoration: Plan Your Space"
-description: "Plan a home purchase, furnishing budget and room layout."
+description: "Plan apartment purchases and furnishing in Nivalis Nights, compare living-space priorities, and keep your home budget separate from venue costs."
 category: "Life & Systems"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
@@ -22,7 +22,7 @@ Check an item’s storage attributes and placement requirements. The October 2 u
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 - [Official October 2 update](https://steamcommunity.com/app/1488490/announcements/?l=english)

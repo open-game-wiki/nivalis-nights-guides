@@ -1,11 +1,11 @@
 ---
 title: "Camera comfort and accessibility checklist"
-description: "A repeatable way to compare camera, input and display settings."
+description: "Compare Nivalis Nights camera, input and display settings on a repeatable short route to find a more comfortable setup for your next session."
 category: "Technical"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 lang: "en"
 ---

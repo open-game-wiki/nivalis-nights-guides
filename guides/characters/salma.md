@@ -5,10 +5,15 @@ category: "Characters"
 badge: "CHARACTERS & QUESTS"
 readingTime: "3 min read"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
-reviewDate: "2026-10-15"
+updatedDate: "2026-10-16"
+reviewDate: "2026-10-16"
 lang: "en"
 ---
+
+## Where to start looking
+Salma regularly eats at noodle bars while looking for Seth. A specific first-meeting district, venue and time have not been confirmed. Use the character list for her current location after meeting her. Before suggesting a candidate, first meet Miso Baron, Idlehands or John Doe; these are alternative leads, not three required visits.
+
+<small>Basis: [Tee — Salma Smith / Find Salma’s Brother](https://steamcommunity.com/sharedfiles/filedetails/?id=3819145522#9383121); [Salma Smith character reference](https://nivalis-guide.com/characters/salma-smith/).</small>
 
 ## Understand Find Salma’s Brother
 Salma is searching for Seth, her missing brother. Her ramen visits connect to that search. Keep a save before proposing a candidate so you can revisit the conversation if needed.

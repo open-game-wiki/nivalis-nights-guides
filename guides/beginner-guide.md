@@ -1,6 +1,6 @@
 ---
 title: "Getting Started: Business, Exploration & People"
-description: "Learn your first venue, prepare supplies and find your next city objective."
+description: "Start Nivalis Nights with a practical checklist for your first venue, ingredients, staff and city trips, then choose the next guide for your goal."
 category: "Getting Started"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
@@ -22,7 +22,7 @@ Use the [first-session checklist](/guides/first-hour-guide/) for tutorial blocke
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 

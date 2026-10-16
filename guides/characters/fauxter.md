@@ -5,10 +5,15 @@ category: "Characters"
 badge: "CHARACTERS & QUESTS"
 readingTime: "3 min read"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
-reviewDate: "2026-10-15"
+updatedDate: "2026-10-16"
+reviewDate: "2026-10-16"
 lang: "en"
 ---
+
+## Where to start looking
+Start your search in the Docks, the area associated with Fauxter in the character reference. This is a search area, not a confirmed first-meeting spot or a guarantee that he is there now. Check his current location in the character list after meeting him. His introduction starts The Songs of Fauxter Glambeat once tutorial step 1 is complete; follow the lyric-writing conversation before the band reunion.
+
+<small>Area: [Fauxter Glambeat — Known area](https://nivalishelp.com/people/fauxter-glambeat). Quest start: [The Songs of Fauxter Glambeat](https://nivalis-nights.com/wiki/quests/the-songs-of-fauxter-glambeat/).</small>
 
 ## Start The Songs of Fauxter Glambeat
 Speak to Fauxter, help with his lyrics and continue the conversation about the band’s breakup. After his reunion idea appears, follow the member objectives.

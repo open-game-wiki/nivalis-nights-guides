@@ -1,13 +1,13 @@
 ---
 title: "四级店铺与后期任务"
-description: "推进四级店铺执照，查找后期任务检查点；包含结局剧透。"
+description: "规划 Nivalis Nights 四级店铺进阶，跟进 Thaddeus 与 Where Is Ava 后期任务检查点；结局步骤提供剧透提示。"
 category: "Progression"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-15"
 icon: "flashlight"
 lang: "zh"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 ---
 

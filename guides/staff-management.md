@@ -1,6 +1,6 @@
 ---
 title: "Staff Management: Roles & Task Priorities"
-description: "Check staff assignments and current task priorities, and consult official updates when diagnosing work or restocking problems."
+description: "Assign Nivalis Nights staff roles and task priorities, check workload and wages, and troubleshoot blocked orders before hiring more employees."
 category: "Business"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
@@ -30,7 +30,7 @@ Use the [loss checklist](/guides/manager-money-drain/) if sales and cash move in
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Official October 2 and October 9 updates](https://steamcommunity.com/app/1488490/announcements/?l=english)
 

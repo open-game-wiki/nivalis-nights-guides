@@ -1,6 +1,6 @@
 ---
 title: "经营扩张：成本与补货"
-description: "准备扩张预算，并维持现有店铺的人员与补货。"
+description: "Nivalis Nights 经营扩张指南：比较店铺开销和补货支出，排查现金流问题，用利润规划器准备下一次开店。"
 category: "Business"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
@@ -22,8 +22,8 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Official updates, especially October 9](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+- [官方 updates, especially October 9](https://steamcommunity.com/app/1488490/announcements/?l=english)
 
 </details>

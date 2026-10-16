@@ -1,11 +1,11 @@
 ---
 title: "Chess & Minigames: Prepare for a Match"
-description: "Check match rules, manage stakes and review unusual moves."
+description: "Find how chess and NPC mini-games fit into Nivalis Nights, prepare your session, and check relevant rule fixes before joining a tournament."
 category: "Activities"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-03-20"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
@@ -22,7 +22,7 @@ The October 1 patch fixed castling while in check. If a move seems wrong, keep t
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 - [Official October 1 update](https://steamcommunity.com/app/1488490/announcements/?l=english)

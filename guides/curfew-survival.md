@@ -1,11 +1,11 @@
 ---
 title: "Curfew: Security & Route Planning"
-description: "Prepare your route and supplies before curfew activities."
+description: "Prepare for Nivalis Nights curfew by checking your active objective, route and return plan before attempting late-night activities in the city."
 category: "Life & Systems"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-03-20"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
@@ -22,7 +22,7 @@ After an interrupted trip, note where the warning appeared and what stopped prog
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 

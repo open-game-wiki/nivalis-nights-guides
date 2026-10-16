@@ -1,6 +1,6 @@
 ---
 title: "出行方式：步行、公共交通与船"
-description: "比较步行、公共交通与乘船路线，安排城市出行。"
+description: "通过出租车、公共交通与自己的船探索 Nivalis Nights，区分可驾驶载具，规划店铺和任务目标之间的路线。"
 category: "Exploration"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
@@ -22,7 +22,7 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
+
 
 - [Launch announcement and October 2 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
 

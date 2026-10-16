@@ -1,11 +1,11 @@
 ---
 title: "店铺补货档位与每日预算"
-description: "找到补货控制项，选择档位并核对采购清单。"
+description: "选择 Nivalis Nights 店铺补货档位与每日预算，检查采购支出，并了解经营设置与温室库存的配合。"
 category: "Business"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 lang: "zh"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "在 Nivalis 的一天：安排自己的目标"
-description: "围绕下一项任务，安排经营、城市探索和角色对话。"
+description: "安排 Nivalis Nights 的一天：从店铺检查、采购与出行到角色任务，按当前目标规划路线，并观看官方生活演示。"
 category: "Getting Started"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
@@ -22,8 +22,8 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Official September 4 preview](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+- [官方 September 4 preview](https://steamcommunity.com/app/1488490/announcements/?l=english)
 
 </details>

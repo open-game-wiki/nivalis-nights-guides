@@ -1,6 +1,6 @@
 ---
 title: "First Session: Tutorial & Venue Checklist"
-description: "Work through tutorial objectives, prepare your venue and resolve common blockers."
+description: "Prepare your first Nivalis Nights venue with an opening checklist for shopping, inventory and staffing, plus screenshots and an official trailer."
 category: "Getting Started"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
@@ -22,7 +22,7 @@ Match the menu to ingredients and equipment, observe one completed order, and se
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Official October 1 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
 

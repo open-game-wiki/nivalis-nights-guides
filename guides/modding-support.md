@@ -1,11 +1,11 @@
 ---
 title: "Mods: Installation & Version Checks"
-description: "Check compatibility, back up saves and troubleshoot a modded game."
+description: "Check Nivalis Nights modding support and distinguish official features from community mods before changing saves, bindings or gameplay settings."
 category: "Technical"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-09-24"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
@@ -22,7 +22,7 @@ Check whether the issue persists with mods disabled. When asking for help, inclu
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 - [Official support instructions](https://steamcommunity.com/app/1488490/discussions/0/583935357196971905/)

@@ -1,6 +1,6 @@
 ---
 title: "Steam Deck: Settings & Performance Checks"
-description: "Compare display settings, frame pacing and battery use on your handheld."
+description: "Check Nivalis Nights handheld support and compare Steam Deck controls, graphics and comfort settings without relying on an untested FPS preset."
 category: "Technical"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
@@ -22,7 +22,7 @@ Change one setting at a time and keep the original profile for comparison. A fra
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Launch announcement, September 29](https://steamcommunity.com/app/1488490/announcements/?l=english)
 - [Official known issues](https://steamcommunity.com/app/1488490/discussions/0/583935357196971905/)

@@ -1,29 +1,25 @@
 ---
-title: "Recipes: Ingredients, Equipment & Menus"
-description: "Match recipes to ingredients and equipment, then compare menu costs."
+title: "All 193 Recipes: Ingredients, Equipment & Unlocks"
+description: "Search 193 Nivalis Nights recipes locally by ingredient, appliance or unlock route, with processing steps, prerequisites and sources for every dish."
 category: "Business"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-02"
 updatedDate: "2026-10-16"
-reviewDate: "2026-10-13"
+reviewDate: "2026-10-16"
 lang: "en"
 ---
 
-## Read the recipe before shopping
-Check each unlocked recipe’s ingredients and required equipment. The food preview includes Cola Chicken, Summer Salad, Meridian Pizza and VegCoffee among the dishes to look for.
+## Use the local recipe catalogue
+[Jump to all 193 recipes](#recipe-catalog). Search a dish, ingredient, character or quest, or combine category, appliance and unlock filters. Open a recipe to read its ingredients, processing and unlock routes without leaving this site.
 
-## Prepare the venue
-Compare the menu with available stock, processors and cooking equipment. When an order stalls, inspect the missing ingredient or workstation before buying more stock.
+## Separate processing from assembly
+Each input lists the processing appliance recorded for that ingredient. The dish also needs a Food Processor or Drink Machine for assembly. “No separate processing step recorded” means the reference does not assign this input to a separate cooking appliance; it does not remove the assembly requirement. Check your current recipe panel if its requirements differ. Replacement categories are shown separately; the ingredient filter matches default inputs rather than every possible substitution.
 
-## Compare menu costs
-Keep ingredient cost, portions sold and waste for the same operating period. Enter price and cost in the [profit planner](/tools/business-calculator/) to compare options.
+## Choose your unlock route
+A dish may have several routes through venue levels, character quests, recruitment or inspiration. Recipe prerequisites belong to the inspiration route shown beside them; they are not automatically requirements for a separate quest reward. Click a prerequisite recipe to inspect how to learn it.
 
-<details>
-<summary>Notes & sources</summary>
+Story-dependent conditions stay inside the expanded recipe. Each entry's source disclosure identifies the records supporting ingredients, equipment and unlocks. Names and quest titles retain English identifiers for lookup in game.
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
-
-- [Official food preview, August 14](https://steamcommunity.com/app/1488490/announcements/?l=english)
-
-</details>
+## Check quantities before shopping
+This catalogue records default inputs and appliances. Unsupported serving quantities and prices are left out. Check the current game recipe or shopping list before buying stock, especially after customizing a recipe. Use the [profit planner](/tools/business-calculator/) to compare menus with your observed costs.

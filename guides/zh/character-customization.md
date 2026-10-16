@@ -1,29 +1,28 @@
 ---
-title: "空间自定义：住所与装饰"
-description: "选择装饰、查看物品属性，规划自己的空间。"
+title: "角色自定义：能否修改外观？"
+description: "Nivalis Nights 能自定义角色外观吗？查看官方答复、第一人称视角，以及角色外观与公寓装饰之间的区别。"
 category: "Life & Systems"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-09-24"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "zh"
 ---
 
-## 先确定布置方向
-先确定要布置自己的住所还是朋友的空间。选好几件主要家具，确认摆放位置后再补充装饰。
+## 能修改角色外观吗？
+开发者 FAQ 的答复是：**Nivalis Nights 没有角色外观自定义功能**。游戏采用第一人称视角，玩家可见的是手臂和双手；该 FAQ 没有提供角色创建器。
 
-## 比较物品用途
-查看物品说明中的大小、价格和功能。装饰预算与店铺运营资金分开安排。
+## 角色外观和住所装饰分别看哪里
 
-## 继续规划生活空间
-购房和布置可看[公寓与装饰](/zh/guides/apartments/)，人际互动可继续看[关系与对话](/zh/guides/romance-ava/)。
+| 想调整的内容 | 对应入口 |
+| --- | --- |
+| 角色脸部或虚拟形象 | 当前官方 FAQ 未提供角色创建器 |
+| 家具、画作和照明 | 查看[公寓与装饰](/zh/guides/apartments/) |
+| 客户的居住空间 | 按当前装饰任务的目标与要求推进 |
+| 镜头舒适度 | 比较[镜头与无障碍设置](/zh/guides/motion-sickness-accessibility/) |
 
-<details>
-<summary>资料说明与来源</summary>
+如果社区模组提供额外外观功能，安装前核对支持版本并备份存档。模组功能与原版选项分开判断。
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
-
-- [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
-
-</details>
+## 来源
+[开发者 FAQ：角色自定义](https://steamcommunity.com/app/1488490/discussions/0/598530855994991183/)，核对于 2026-10-16。

@@ -1,6 +1,6 @@
 ---
 title: "公寓与装饰：安排自己的空间"
-description: "规划购房预算、家具开销和房间布置。"
+description: "规划 Nivalis Nights 公寓购买与布置，比较生活空间需求，分开安排住房预算和店铺日常开销。"
 category: "Life & Systems"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
@@ -22,9 +22,9 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
-- [Official October 2 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+- [Steam 商店](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+- [官方 October 2 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
 
 </details>

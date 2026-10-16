@@ -1,6 +1,6 @@
 ---
 title: "种植食材：收获与供应规划"
-description: "记录种植周期，比较自产供应与批发采购成本。"
+description: "Nivalis Nights 温室种植与供应：查看 Update 5 自动化变化，根据实际收获比较自种成本和批发采购开销。"
 category: "Life & Systems"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
@@ -19,11 +19,17 @@ lang: "zh"
 ## 比较自种与采购
 把周期数据填入[温室供应规划器](/zh/tools/greenhouse-simulator/)，估算计划架数下的供应量，并与同等采购成本比较。环境设置可以随方案一起保存为笔记。
 
+## Update 5 温室自动化
+
+Automatic Harvester 在 Farming 15 级解锁；RePlanter 4000 在 16 级解锁，可接续收割后的补种。店铺新增 Use Greenhouse Stock 设置，开启后经理先使用温室库存再采购。更新调整了种植等级曲线，旧存档应重新查看当前等级与升级要求。
+
+先检查自动化与店铺供应设置，再记录新版本下的收获周期。[官方 Update 5](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678000)和[更新摘要](/zh/guides/patch-notes/)可用于核对版本变化。
+
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Official October 5 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+- [官方 October 5 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
 
 </details>

@@ -1,11 +1,11 @@
 ---
 title: "模组：安装准备与版本检查"
-description: "检查兼容性、备份存档，排查安装模组后的问题。"
+description: "核对 Nivalis Nights 模组支持，区分官方功能与社区修改，调整存档、按键或玩法前先备份并确认兼容性。"
 category: "Technical"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-09-24"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "zh"
 ---
@@ -22,9 +22,9 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
-- [Official support instructions](https://steamcommunity.com/app/1488490/discussions/0/583935357196971905/)
+
+- [Steam 商店](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+- [官方 support instructions](https://steamcommunity.com/app/1488490/discussions/0/583935357196971905/)
 
 </details>

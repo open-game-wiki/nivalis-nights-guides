@@ -1,11 +1,11 @@
 ---
 title: "Time & Weather: Plan Your Activities"
-description: "Use the city clock and changing conditions to organize your next outing."
+description: "Plan Nivalis Nights outings around the day-night cycle and weather, track observations, and combine errands before returning to your venue."
 category: "Life & Systems"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-09-24"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
@@ -22,7 +22,7 @@ Keep the location and equipment similar when comparing fishing trips in differen
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 

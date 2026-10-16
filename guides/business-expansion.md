@@ -1,6 +1,6 @@
 ---
 title: "Business Expansion: Costs & Restocking"
-description: "Prepare an expansion budget and keep existing venues supplied."
+description: "Compare venue costs and restocking in Nivalis Nights, identify cash-flow problems, and plan your next opening with the business profit calculator."
 category: "Business"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
@@ -22,7 +22,7 @@ Separate initial investment from recurring costs in the [profit planner](/tools/
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Official updates, especially October 9](https://steamcommunity.com/app/1488490/announcements/?l=english)
 

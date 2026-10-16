@@ -5,10 +5,15 @@ category: "Characters"
 badge: "角色与任务"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
-reviewDate: "2026-10-15"
+updatedDate: "2026-10-16"
+reviewDate: "2026-10-16"
 lang: "zh"
 ---
+
+## 从哪里开始找 Fauxter
+可先到 Docks（码头区）寻找 Fauxter；角色资料将这里列为他的关联区域。这是寻找范围，尚不能确定为首次会面的具体位置，也不保证他当前就在这里。认识他后，可用角色列表核对当前位置。完成教学第 1 步后，初次介绍对话可开启 The Songs of Fauxter Glambeat；先推进协助创作歌词的对话，再跟进乐队重组。
+
+<small>区域依据：[Fauxter Glambeat — Known area](https://nivalishelp.com/people/fauxter-glambeat)。任务入口：[The Songs of Fauxter Glambeat](https://nivalis-nights.com/wiki/quests/the-songs-of-fauxter-glambeat/)。</small>
 
 ## 开始 The Songs of Fauxter Glambeat
 与 Fauxter 对话，帮助创作歌词，再继续了解乐队解散的经历。重组乐队的想法出现后，按成员目标推进。

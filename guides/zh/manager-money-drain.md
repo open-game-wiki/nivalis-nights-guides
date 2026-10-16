@@ -1,11 +1,11 @@
 ---
 title: "经理支出与店铺亏损排查"
-description: "先区分补货支出与收入不足，再调整店铺。"
+description: "排查 Nivalis Nights 经理采购导致的资金流失：核对补货档位、预算、库存损耗与每日店铺现金流。"
 category: "Business"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 lang: "zh"
 ---

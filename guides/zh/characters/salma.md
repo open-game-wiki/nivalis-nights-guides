@@ -5,10 +5,15 @@ category: "Characters"
 badge: "角色与任务"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
-reviewDate: "2026-10-15"
+updatedDate: "2026-10-16"
+reviewDate: "2026-10-16"
 lang: "zh"
 ---
+
+## 从哪里开始找 Salma
+Salma 为寻找 Seth 经常光顾拉面店，目前尚未确认首次会面的具体城区、店名和时间。认识她后，可用角色列表查看当前位置。提出候选人前，先认识 Miso Baron、Idlehands 或 John Doe 中的一位；这是不同线索，不要求依次找齐三人。
+
+<small>依据：[Tee — Salma Smith / Find Salma’s Brother](https://steamcommunity.com/sharedfiles/filedetails/?id=3819145522#9383121)；[Salma Smith 角色资料](https://nivalis-guide.com/characters/salma-smith/)。</small>
 
 ## 了解 Find Salma’s Brother
 Salma 正在寻找失踪的弟弟 Seth，她经常吃拉面也与这次寻找有关。提出候选人前保留存档，方便需要时回看对话。

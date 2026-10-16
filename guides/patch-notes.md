@@ -1,33 +1,26 @@
 ---
 title: "Patch notes and guide compatibility"
-description: "A short index of version changes and the guides to revisit."
+description: "Read Nivalis Nights Updates 1–5 by date and affected system, including restocking, greenhouse automation, performance, saves and quest fixes."
 category: "Updates"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 lang: "en"
 ---
 
-## Read updates by the system you use
-The official announcement archive lists Update #2 on October 2, Update #3 on October 5 and Update #4 on October 9, 2026. Use the developer archive for the complete change lists.
+## Updates 1–5 at a glance
 
-| Topic | Related guide |
-| --- | --- |
-| Restocking controls | [Venue settings](/guides/venue-management-settings/) |
-| Staff priorities | [Staff management](/guides/staff-management/) |
-| Operating losses | [Manager spending](/guides/manager-money-drain/) |
-| Late progression | [Tier 4 and story notes](/guides/tier-4-and-late-quests/) |
+| Update | Date | Main changes |
+| --- | --- | --- |
+| [Update 1](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656381773) | 2026-10-01 | Camera reload degradation and castling rules; more intro objective detail. |
+| [Update 2](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386240) | 2026-10-02 | Staff task and ingredient handling fixes; UI and performance improvements. |
+| [Update 3](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393863) | 2026-10-05 | District achievement-point thresholds rebalanced. |
+| [Update 4](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933485) | 2026-10-09 | Venue restock levels and daily budgets; lower travel memory use. |
+| [Update 5](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678000) | 2026-10-15 | Greenhouse automation and stock sourcing; smaller saves, quest and performance fixes. |
 
-## Before using a walkthrough
-Record your installed build and compare it with the guide's scope. Keep an older save before a story checkpoint.
+## What to revisit after updating
+Open venue settings and check restock levels, daily budgets and greenhouse stock options. Compare operating records separately before and after an update. Then inspect your current quest, inventory and whether saves load correctly.
 
-<details><summary>Does a patch guarantee my venue will make money?</summary><p>No. Diagnose sales, costs and staffing separately. Use the planner to compare your own figures.</p></details>
-
-<details>
-<summary>Notes & sources</summary>
-
-[Official developer updates](https://steamcommunity.com/app/1488490/announcements/?l=english), reviewed October 15, 2026.
-
-</details>
+See [greenhouse farming](/guides/greenhouse-farming/) for automation, [venue settings](/guides/venue-management-settings/) for purchasing, and [performance troubleshooting](/guides/performance-troubleshooting/) for crashes and stutter. Each update link leads to the full official change list; the table highlights changes relevant to using these guides.

@@ -1,11 +1,11 @@
 ---
 title: "PC Requirements: Official Minimum & Recommended"
-description: "Compare the official Steam minimum and recommended PC specifications, storage requirements and publisher-stated performance targets."
+description: "Check official Nivalis Nights minimum and recommended PC hardware, SSD and storage requirements, and the resolution targets attached to each tier."
 category: "Technical"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-09-24"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
@@ -29,7 +29,7 @@ A GPU model alone is not a guarantee of performance. The official notes distingu
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 

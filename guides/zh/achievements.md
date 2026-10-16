@@ -1,11 +1,11 @@
 ---
 title: "成就：目标规划与进度记录"
-description: "整理成就目标、检查城区开放要求，排查未解锁的项目。"
+description: "查询 Nivalis Nights 的 Steam 成就，区分剧情剧透与收集目标，核对城区进度条件，并排查未解锁的问题。"
 category: "Progress"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-09-29"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "zh"
 ---
@@ -22,9 +22,9 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
-- [Official October 5 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
+
+- [Steam 商店](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+- [官方 October 5 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
 
 </details>

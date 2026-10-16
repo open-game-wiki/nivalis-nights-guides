@@ -1,6 +1,6 @@
 ---
 title: "新手入门：经营、探索与人际关系"
-description: "熟悉第一家店、准备物资，找到下一个城市探索目标。"
+description: "Nivalis Nights 新手入门：检查第一家店、原料、员工与城市出行准备，再按当前目标找到对应攻略和工具。"
 category: "Getting Started"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
@@ -22,8 +22,8 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+
+- [Steam 商店](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Keyboard & controller quick reference"
-description: "Find movement, interaction, map and inventory controls for your next session."
+description: "Look up Nivalis Nights keyboard, mouse and controller bindings for movement, interaction, inventory, map and journal before your next session."
 category: "Getting Started"
 publishDate: "2026-10-16"
 updatedDate: "2026-10-16"

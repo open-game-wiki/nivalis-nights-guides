@@ -1,11 +1,11 @@
 ---
 title: "宵禁：安保与路线安排"
-description: "进行宵禁活动前，安排路线并检查物资。"
+description: "Nivalis Nights 宵禁行动准备：出发前核对任务目标、路线和返程安排，规划夜间城市活动。"
 category: "Life & Systems"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-03-20"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "zh"
 ---
@@ -22,8 +22,8 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+
+- [Steam 商店](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 
 </details>

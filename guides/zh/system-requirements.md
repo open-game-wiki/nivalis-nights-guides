@@ -1,11 +1,11 @@
 ---
 title: "PC 配置：官方最低与推荐要求"
-description: "对照 Steam 官方最低与推荐电脑配置、存储要求和发行商注明的性能目标。"
+description: "查看 Nivalis Nights 官方最低与推荐电脑配置、SSD 和存储要求，理解两档硬件对应的分辨率与性能目标。"
 category: "Technical"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-09-24"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "zh"
 ---
@@ -29,8 +29,8 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
 
-- [Steam store](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
+
+- [Steam 商店](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 
 </details>

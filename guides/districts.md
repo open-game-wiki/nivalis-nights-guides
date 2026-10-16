@@ -1,6 +1,6 @@
 ---
 title: "Districts: Access & Exploration Planning"
-description: "Check district access, note useful landmarks and plan a city route."
+description: "Find named Nivalis Nights districts and landmarks mentioned in official updates, check access requirements, and plan linked venue and travel routes."
 category: "Exploration"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
@@ -10,20 +10,38 @@ reviewDate: "2026-10-13"
 lang: "en"
 ---
 
-## Check access requirements
-Read the district name and access requirement in your current save. Keep locked destinations alongside the objectives you still need to complete.
+## Named destinations in the city
+Steam has a separate visit achievement for each destination below. Use the exact names to compare your map and quest journal; this list is a destination index, not a drawn map or a set of unlock costs.
 
-## Review progression after updates
-The October 5 update rebalanced district achievement-point thresholds. Check the in-game achievements window when an older requirement no longer matches.
+| Destination | What to check before travelling |
+| --- | --- |
+| Calypso Island | Map access and the current journal objective |
+| Central Canyon | Map access and the current journal objective |
+| Docks | Map access and the current journal objective |
+| Eastern Residential | Map access and the current journal objective |
+| Helix Monumental | Map access and the current journal objective |
+| Hive Mall | Map access and the current journal objective |
+| Industrial District | Map access and the current journal objective |
+| Lowtown | Map access and the current journal objective |
+| Meridian Market | Map access and the current journal objective |
+| Metro Hub | Map access and the current journal objective |
+| Mountain Town | Map access and the current journal objective |
+| Oil Rig | Map access and the current journal objective |
+| Seaside Boardwalk | Map access and the current journal objective |
+| Sewers | Map access and the current journal objective |
+| Skyhigh Gardens | Map access and the current journal objective |
+| Space Port | Map access and the current journal objective |
+| Spire | Map access and the current journal objective |
+| The Stacks | Map access and the current journal objective |
 
-## Build a useful route
-For each accessible district, note transit connections, merchants and unfinished objectives. Group nearby tasks into a single outing.
+## Turn the index into a useful route
+Start with the destination in your active quest, then add shopping or venue checks in the same area. Write the return route before leaving and keep enough operating cash for the next venue cycle. An unexplored location and a locked location are different problems: check the map's access requirement before treating a quest as blocked.
 
-<details>
-<summary>Notes & sources</summary>
+The official tourist brochure is a useful visual companion: [Your Tourist Map](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695572). For transport options, read [getting around](/guides/transportation/).
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+## When an old access requirement differs
+Update 3 changed district achievement-point thresholds. Compare your current in-game requirement with the [patch notes](/guides/patch-notes/) before following an older route. Steam's location achievements and the game's district progression are related references, not interchangeable counters.
 
-- [Official October 5 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
-
-</details>
+## Sources
+- [Steam destination achievements](https://steamcommunity.com/stats/1488490/achievements/?l=english), checked October 16, 2026.
+- [Official Update 3](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393863).

@@ -1,6 +1,6 @@
 ---
 title: "Steam Deck：设置与性能检查"
-description: "在掌机上比较显示设置、帧率稳定性与电量消耗。"
+description: "核对 Nivalis Nights 掌机支持，比较 Steam Deck 操作、画面与舒适度设置，用自己的测试选择帧率和功耗配置。"
 category: "Technical"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
@@ -22,10 +22,10 @@ lang: "zh"
 <details>
 <summary>资料说明与来源</summary>
 
-官方来源复核于 **2026-10-13**。文中的记录与排查清单为本站建议，不代表游戏实测结果。
+
 
 - [Launch announcement, September 29](https://steamcommunity.com/app/1488490/announcements/?l=english)
-- [Official known issues](https://steamcommunity.com/app/1488490/discussions/0/583935357196971905/)
+- [官方 known issues](https://steamcommunity.com/app/1488490/discussions/0/583935357196971905/)
 - [Live Steam listing](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
 
 </details>

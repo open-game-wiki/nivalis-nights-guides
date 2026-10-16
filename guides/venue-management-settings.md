@@ -1,11 +1,11 @@
 ---
 title: "Venue restocking targets and daily budgets"
-description: "Find the controls, choose a target and check your shopping list."
+description: "Choose Nivalis Nights restocking levels and daily budgets, inspect purchasing costs, and check how venue settings interact with greenhouse stock."
 category: "Business"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 lang: "en"
 ---

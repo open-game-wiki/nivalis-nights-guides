@@ -1,6 +1,6 @@
 ---
 title: "Getting Around: Walking, Transit & Boats"
-description: "Compare walking, transit and boat routes to plan your next trip across the city."
+description: "Navigate Nivalis Nights using taxis, transit and your own boat, distinguish drivable vehicles, and plan trips between venues and quest objectives."
 category: "Exploration"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
@@ -22,7 +22,7 @@ The October 2 update documented a performance issue after fast travel to some lo
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Launch announcement and October 2 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
 

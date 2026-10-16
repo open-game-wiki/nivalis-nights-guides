@@ -1,11 +1,11 @@
 ---
 title: "Customer Reviews: Diagnose Service Problems"
-description: "Use customer feedback to check freshness, staff service and venue layout."
+description: "Use Nivalis Nights customer reviews to diagnose service, staffing and menu problems, then compare changes across matching operating periods."
 category: "Business"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-02"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "en"
 ---
@@ -22,7 +22,7 @@ Compare a similar service period after altering staffing, stock or layout. Recor
 <details>
 <summary>Notes & sources</summary>
 
-Official sources reviewed on **2026-10-13**. Practical checklists above are editorial suggestions, not in-game test results.
+
 
 - [Official October 2 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
 
