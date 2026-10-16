@@ -5,7 +5,7 @@ category: "Characters"
 badge: "CHARACTERS & QUESTS"
 readingTime: "3 min read"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 lang: "en"
 ---

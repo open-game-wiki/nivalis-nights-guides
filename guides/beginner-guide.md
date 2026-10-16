@@ -5,7 +5,7 @@ category: "Getting Started"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-02"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-13"
 lang: "en"
 ---

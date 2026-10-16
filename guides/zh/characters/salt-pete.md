@@ -5,7 +5,7 @@ category: "Characters"
 badge: "角色与任务"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 reviewDate: "2026-10-15"
 lang: "zh"
 ---
