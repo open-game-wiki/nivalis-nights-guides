@@ -1,30 +1,39 @@
 ---
-title: "模组：安装准备与版本检查"
-description: "核对 Nivalis Nights 模组支持，区分官方功能与社区修改，调整存档、按键或玩法前先备份并确认兼容性。"
+title: "Mods 与模组支持：安装前确认什么"
+description: "Nivalis Nights 支持 Mods 吗？核对开发者答复、社区模组兼容性与存档备份方式，再决定是否修改文件。"
 category: "Technical"
-badge: "玩家攻略"
+badge: "资料核验 · 2026-10-28"
 readingTime: "约 3 分钟"
 publishDate: "2026-09-24"
-updatedDate: "2026-10-16"
-reviewDate: "2026-10-13"
+updatedDate: "2026-10-28"
+icon: "settings"
 lang: "zh"
+reviewDate: "2026-10-28"
 ---
 
-## 先检查兼容性
-查看模组支持的版本、依赖、安装步骤与卸载说明，再与当前游戏核对。
+## Nivalis Nights 有官方模组工具吗？
+开发者 FAQ 表示，模组工具不属于当前游戏范围。这不同于断言不存在社区修改。本页不提供已核验模组目录、官方模组加载器或已实测安装目录。
 
-## 保留干净备份
-安装前单独备份存档，每次只添加一个模组，方便判断问题来自哪次改动。保留卸载所需的原始文件。
+## 下载社区模组前
+检查完整游戏名称、支持的版本、作者、依赖、安装方式与移除说明。Cloudpunk、同名游戏或旧版 Nivalis 的模组，不会自动兼容。如果模组页没有支持版本或恢复步骤，兼容性就仍然未知。
 
-## 出现问题时逐项排查
-先检查关闭模组后是否仍会出现问题。求助时附上游戏版本、模组列表与操作步骤。官方支持帖提供 Windows 日志与存档目录说明。
+## 先备份存档
+官方 Windows 支持帖将 `.sav` 存档与日志放在以下目录：
 
-<details>
-<summary>资料说明与来源</summary>
+```text
+%USERPROFILE%\AppData\LocalLow\ION LANDS\Nivalis Nights
+```
 
+关闭游戏，在修改文件前另存一份存档，注明游戏版本和日期。这是编辑整理的备份建议；Steam Cloud 同步不等于能回退到理想版本的备份。
 
+## 一次只尝试一项改动
+保留作者说明与原始文件。只做一项修改，检查游戏是否加载、目标操作是否正常，并记录结果。出现问题就停止叠加模组，按作者说明移除。验证游戏文件可能恢复原文件，但不能证明所有第三方文件都已移除。
 
-- [Steam 商店](https://store.steampowered.com/app/1488490/Nivalis/?l=english)
-- [官方 support instructions](https://steamcommunity.com/app/1488490/discussions/0/583935357196971905/)
+## 提供可复现的问题
+条件允许时，与未修改的游戏会话比较，记录游戏版本、模组版本与复现步骤。再次启动前先保留日志，因为官方支持帖提醒重新启动会替换较早日志。游戏问题通过开发者支持入口反馈。
 
-</details>
+## 相关内容
+[性能排查](/zh/guides/performance-troubleshooting/) · [平台与合作模式](/zh/guides/multiplayer-platforms/) · [钓鱼路线](/zh/guides/fishing-spots/)
+
+## 来源与范围
+[开发者 FAQ](https://steamcommunity.com/app/1488490/discussions/0/598530855994991183/)、[官方支持说明](https://steamcommunity.com/app/1488490/discussions/0/583935357196971905/)，核验于 2026-10-28。本页没有测试模组下载、修改器、性能承诺或安装流程。

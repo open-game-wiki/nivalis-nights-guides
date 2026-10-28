@@ -1,14 +1,19 @@
 ---
-title: "Fishing Spots: Four Districts and Weather Routes"
+title: "Fishing Spots: Districts & Weather Routes"
 description: "Plan Nivalis Nights fishing trips in Industrial District, Seaside Boardwalk, The Stacks and Calypso Island with weather and day or night targets."
 category: "Fishing"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-05"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-28"
 reviewDate: "2026-10-16"
 lang: "en"
 ---
+
+## How to start a fishing trip
+Choose a district your save can reach and locate an available fishing interaction. Check its on-screen input prompts, record the time and weather, and log a catch before changing locations. If no interaction is available, check the current objective and try a different accessible shoreline; this is preparation advice, not a verified rod-unlock sequence.
+
+Use the [fish compendium](/tools/fish-compendium/) to filter the reference records and keep your own catch notes. A community condition table is a starting point, not a guarantee of the next catch.
 
 ## Four districts to plan around
 Community records place the restricted species in four districts. Pick one you can already reach, then plan its daytime and night targets around the weather.

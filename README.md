@@ -25,3 +25,9 @@ Existing English and Chinese routes remain available. Business and harvest plann
 This repository contains the public Markdown guide copies. The separate site repository uses Astro 4 and Tailwind CSS. Guide Markdown in `src/content/guides/` is mirrored to the separate `nivalis-nights-guides/guides/` repository, including its `zh/` directory. Keep both copies identical.
 
 No deployment or publication is implied by a local content change.
+
+## October 28 guide updates / 10 月 28 日攻略更新
+
+- [Fishing Spots](https://nivalis-nights.online/guides/fishing-spots/) · [中文](https://nivalis-nights.online/zh/guides/fishing-spots/)
+- [Modding Support](https://nivalis-nights.online/guides/modding-support/) · [中文](https://nivalis-nights.online/zh/guides/modding-support/)
+- [Multiplayer Platforms](https://nivalis-nights.online/guides/multiplayer-platforms/) · [中文](https://nivalis-nights.online/zh/guides/multiplayer-platforms/)

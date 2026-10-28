@@ -1,9 +1,9 @@
 ---
-title: "Multiplayer, Co-op & Console Platforms"
+title: "PS5, Xbox & Multiplayer: Platform Status"
 description: "Is Nivalis Nights multiplayer, and is it on PS5 or Xbox? Check the official single-player and platform answers, with links to current announcements."
 category: "Getting Started"
 publishDate: "2026-10-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-28"
 lang: "en"
 ---
 
@@ -15,8 +15,11 @@ The same FAQ says PC is the current focus and does not announce a console date. 
 
 Before purchasing for a particular device, check the [current Steam store](https://store.steampowered.com/app/1488490/Nivalis_Nights/) and official announcements. Do not use a store bundle, controller support label or Cloudpunk's platform list as evidence that Nivalis Nights has the same releases.
 
+## Does controller support confirm a PS5 version?
+No. PC controller support is an input feature, not evidence of a console release or crossplay. The developer FAQ does not provide a PS5 or Xbox launch date.
+
 ## What to play next
 Use [first-session preparation](/guides/first-hour-guide/) for the single-player opening, [Steam Deck settings](/guides/steam-deck-settings/) for handheld checks, or [PC requirements](/guides/system-requirements/) for hardware targets.
 
 ## Source
-[Developer FAQ — platforms and multiplayer](https://steamcommunity.com/app/1488490/discussions/0/598530855994991183/), checked October 16, 2026. Announcements may change; the source does not provide a PS5 or Xbox release date.
+[Developer FAQ — platforms and multiplayer](https://steamcommunity.com/app/1488490/discussions/0/598530855994991183/), checked October 28, 2026. Announcements may change; the source does not provide a PS5 or Xbox release date.
