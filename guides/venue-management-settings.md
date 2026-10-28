@@ -5,8 +5,8 @@ category: "Business"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-16"
-reviewDate: "2026-10-15"
+updatedDate: "2026-10-28"
+reviewDate: "2026-10-28"
 lang: "en"
 ---
 
@@ -30,6 +30,12 @@ A lower budget may limit purchasing without fixing missing equipment or an unsui
 
 ## Compare the operating costs
 Use the [profit planner](/tools/business-calculator/) with your measured ingredient spending, staffing and rent. For a loss diagnosis, see [manager spending](/guides/manager-money-drain/).
+
+
+## Update 6: stock sources and evening service
+With Use Greenhouse Stock enabled, managers use greenhouse supply first and buy only the shortfall. Restock messages label greenhouse, vendor or mixed sourcing. Do not infer a duplicate cash charge from ingredient cost alone; use the [manager spending checklist](/guides/manager-money-drain/).
+
+Venues continue serving and paying staff through the pre-curfew evening while you sleep. Compare budgets over the same complete period. [Official Update 6](https://steamcommunity.com/app/1488490/announcements/?l=english), checked October 28, 2026. The restock-target table above retains its Update 4 source.
 
 <details>
 <summary>Notes & sources</summary>

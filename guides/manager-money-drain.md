@@ -1,35 +1,37 @@
 ---
-title: "Manager spending and venue loss checklist"
-description: "Troubleshoot Nivalis Nights managers spending too much on ingredients: compare restocking, budgets, missing stock and daily venue cash flow."
+title: "Manager Costs: Stock & Restocking"
+description: "Check why a Nivalis Nights manager buys ingredients, compare greenhouse costs with cash movement, and inspect Update 6 restock messages."
 category: "Business"
-badge: "PLAYER GUIDE"
-readingTime: "3 min read"
+badge: "SOURCE CHECK · 2026-10-28"
+readingTime: "4 min read"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-16"
-reviewDate: "2026-10-15"
+updatedDate: "2026-10-28"
+reviewDate: "2026-10-28"
 lang: "en"
 ---
 
-## Identify the expense first
-Take two finance snapshots across the same operating period. Record sales, ingredient spending, payroll and fixed costs. Money leaving your balance is not enough to identify a manager bug.
 
-## Work through one venue
-1. Confirm that your game is updated and inspect the active menu.
-2. Check available ingredients and required equipment.
-3. Review [restocking targets and the daily budget](/guides/venue-management-settings/).
-4. Watch whether orders are taken, meals prepared and customers served.
-5. Change one factor and repeat the observation.
+## Manager buying ingredients despite greenhouse stock?
+**Update 6, October 22** clarifies supply sourcing and the finance display. With **Use Greenhouse Stock** enabled, managers use greenhouse supply first and buy the remaining shortfall. A purchase is not by itself proof that the option failed.
 
-Avoid importing a staffing ratio or price from another player's venue without checking your own conditions.
+## Check one venue and one ingredient
+1. Confirm your build and open that venue's management settings. Check Use Greenhouse Stock, the supply target and daily budget together.
+2. Compare the active menu's ingredient with the actual harvested stock. A crop still growing is not the same as stock available for that order.
+3. Read the restock message. Update 6 labels greenhouse, vendor or mixed sourcing.
+4. Record stock and balance before and after the same operating period. Repeat with one variable changed if the result is unclear.
 
-## Turn records into a decision
-Compare your current setup and a proposed change in the [business planner](/tools/business-calculator/). A positive result only follows from the numbers you enter; it cannot guarantee customer demand.
+If the message and stock movement disagree, report the exact ingredient, venue, menu, budget, build and screenshots. These are diagnostic suggestions, not a verified universal fix.
 
-<details><summary>What should I include in a bug report?</summary><p>Game build, venue, active menu, staffing, budget, before-and-after balances, reproduction steps and screenshots.</p></details>
+## Ingredient cost is not a second cash charge
+Update 6 displays homegrown ingredients at their growing cost instead of market price. Transactions from before the patch retain the earlier estimate. Do not combine historical and new transactions to conclude that the current manager overpaid.
 
-<details>
-<summary>Notes & sources</summary>
+To investigate a balance change, separately record purchasing, sales, wages and other observed charges over matching time windows. A cost assigned to a meal in the finance display does not alone establish a new vendor purchase.
 
-[Official developer updates](https://steamcommunity.com/app/1488490/announcements/?l=english) for version context. The diagnostic checklist is our editorial guidance, not a reproduced playtest.
+## Does going to sleep stop venue spending?
+Update 6 keeps venues operating while you sleep; the evening before curfew includes service, payments, reviews and staff wages. Compare the whole operating period, including that evening, rather than just the hours you watched the counter.
 
-</details>
+## Plan the next change
+Use measured spending in the [business planner](/tools/business-calculator/). Its result depends on your inputs; it does not guarantee demand or fix a manager. See [restock settings](/guides/venue-management-settings/) and [greenhouse automation](/guides/greenhouse-farming/).
+
+## Source and scope
+[Official Update 6](https://steamcommunity.com/app/1488490/announcements/?l=english), reviewed October 28, 2026. Version behavior comes from the developer; the observation checklist is editorial guidance, not a playtest.

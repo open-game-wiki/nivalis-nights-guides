@@ -5,8 +5,8 @@ category: "Business"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-02"
-updatedDate: "2026-10-16"
-reviewDate: "2026-10-16"
+updatedDate: "2026-10-28"
+reviewDate: "2026-10-28"
 lang: "zh"
 ---
 
@@ -23,3 +23,11 @@ lang: "zh"
 
 ## 采购前确认份量
 本库提供默认食材与设备，不填写没有依据的每份数量和售价。采购前按当前游戏配方或购物清单确认数量，自定义过的配方应按自己的配置备货。需要比较菜单成本时，使用[利润规划器](/zh/tools/business-calculator/)。
+
+
+## Update 6：冰箱、Beer Soup 与 Squid Ink
+- **读档后食物腐坏：**官方修复了冰箱读档后按柜子处理、食物更快变质的问题。先确认已更新，比较同类食材与相同游戏内时长；仍异常时报告存放位置、读档与腐坏的先后，不要把它当作正常保鲜规则。
+- **Beer Soup：**旧存档配方改为使用煮熟的 Wheat 而非 Beer。下方菜谱卡的该项输入已按公告更正；旧社区来源中的其他设备和解锁记录保持各自日期。
+- **Squid Ink：**不再腐坏或需要冰箱；公告也处理旧档中隐藏/变成 Rotten Food 导致 A Drink to the Past 无法推进的问题。更新后仍卡住时保留目标原文和物品状态，不要通过重置解决。
+
+[官方 Update 6](https://steamcommunity.com/app/1488490/announcements/?l=english)，核验于 2026-10-28；未宣称 193 道菜全部经过当前版本实机测试。[温室自动化](/zh/guides/greenhouse-farming/) · [版本汇总](/zh/guides/patch-notes/)。

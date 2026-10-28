@@ -1,0 +1,10 @@
+{
+  "beer-soup": {
+    "checkedDate": "2026-10-28",
+    "version": "Update 6 · 2026-10-22",
+    "source": "https://steamcommunity.com/app/1488490/announcements/?l=english",
+    "replaceIngredient": { "from": "Beer", "to": "Wheat", "nameZh": "小麦", "processing": "Cooker" },
+    "en": "Update 6 corrects the existing-save input to cooked Wheat instead of Beer. Other equipment and unlock records below retain their original community source and date.",
+    "zh": "Update 6 将旧档该项输入改为煮熟的小麦，而非啤酒；下方其他设备和解锁记录仍保留原社区来源与日期。"
+  }
+}

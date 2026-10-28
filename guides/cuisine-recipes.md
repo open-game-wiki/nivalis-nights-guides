@@ -1,12 +1,12 @@
 ---
-title: "All 193 Recipes: Ingredients, Equipment & Unlocks"
+title: "193 Recipes: Ingredients & Unlocks"
 description: "Search 193 Nivalis Nights recipes locally by ingredient, appliance or unlock route, with processing steps, prerequisites and sources for every dish."
 category: "Business"
 badge: "PLAYER GUIDE"
 readingTime: "3 min read"
 publishDate: "2026-10-02"
-updatedDate: "2026-10-16"
-reviewDate: "2026-10-16"
+updatedDate: "2026-10-28"
+reviewDate: "2026-10-28"
 lang: "en"
 ---
 
@@ -23,3 +23,11 @@ Story-dependent conditions stay inside the expanded recipe. Each entry's source 
 
 ## Check quantities before shopping
 This catalogue records default inputs and appliances. Unsupported serving quantities and prices are left out. Check the current game recipe or shopping list before buying stock, especially after customizing a recipe. Use the [profit planner](/tools/business-calculator/) to compare menus with your observed costs.
+
+
+## Update 6: fridges, Beer Soup and Squid Ink
+- **Food spoiling after a load:** the developer fixed fridges being treated as cupboards after loading. Check the update, then compare the same food and elapsed game time. If it persists, report storage location and load/spoil order rather than treating the old bug as normal preservation.
+- **Beer Soup:** existing saves now require cooked Wheat instead of Beer. That input is corrected in the catalogue below; other community-recorded equipment and unlock information retains its own date.
+- **Squid Ink:** it no longer spoils or needs a fridge. The update also addresses old-save ink being hidden or turning into Rotten Food, blocking A Drink to the Past. Preserve the objective and item state if it still fails; do not reset as a test.
+
+[Official Update 6](https://steamcommunity.com/app/1488490/announcements/?l=english), checked October 28, 2026. This does not claim all 193 recipes were playtested on the current build. [Greenhouse automation](/guides/greenhouse-farming/) · [Patch summary](/guides/patch-notes/).

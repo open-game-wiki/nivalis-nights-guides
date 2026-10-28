@@ -1,35 +1,35 @@
 ---
-title: "种植食材：收获与供应规划"
-description: "Nivalis Nights 温室种植与供应：查看 Update 5 自动化变化，根据实际收获比较自种成本和批发采购开销。"
+title: "温室自动化：补种、满仓与店铺供货"
+description: "设置 Nivalis Nights 自动收获与补种，核对 Update 6 满仓行为、旧模块退款及温室向店铺供货的检查步骤。"
 category: "Life & Systems"
-badge: "玩家攻略"
-readingTime: "约 3 分钟"
+badge: "资料核验 · 2026-10-28"
+readingTime: "约 4 分钟"
 publishDate: "2026-03-20"
-updatedDate: "2026-10-16"
-reviewDate: "2026-10-13"
+updatedDate: "2026-10-28"
+reviewDate: "2026-10-28"
 lang: "zh"
 ---
 
-## 围绕厨房需求种植
-先选店铺能用到的原料，再检查可用种植空间。10 月 5 日更新在工业区加入了三个温室。
 
-## 记录完整周期
-把作物名、种植架数、种子和运营成本、游戏内天数及总收获记在一起，每次采用相同单位。
+## 自动化需要什么？
+Update 5 加入 **Farming 15 级的 Automatic Harvester** 与 **16 级的 RePlanter 4000**。核对当前要求及选中模块的自动化开关；等级重平衡可能改变旧存档的解锁状态。
 
-## 比较自种与采购
-把周期数据填入[温室供应规划器](/zh/tools/greenhouse-simulator/)，估算计划架数下的供应量，并与同等采购成本比较。环境设置可以随方案一起保存为笔记。
+## 不自动补种，或温室满仓怎么办？
+Update 6 修复了自动收获后即使满仓也应补种同一作物的问题。更新后若模块仍空着或换种：
+1. 收获前记录版本、模块、所选作物、自动化状态和库存空间。
+2. 观察一次收获，对照收获后的作物和库存。
+3. 若仍有差异，报告前后状态；不要将旧满仓漏洞解释成永久规则。
 
-## Update 5 温室自动化
+这是观察顺序，不保证恢复。删除或替换模块前先核对背包与仓库。
 
-Automatic Harvester 在 Farming 15 级解锁；RePlanter 4000 在 16 级解锁，可接续收割后的补种。店铺新增 Use Greenhouse Stock 设置，开启后经理先使用温室库存再采购。更新调整了种植等级曲线，旧存档应重新查看当前等级与升级要求。
+## 为什么旧模块被退款？
+Update 6 会按基础价格退还因 Update 5 等级调整而锁定的模块；正在生长的作物会退还种子。购买替代模块前先看退款消息与当前等级，不要将所有模块消失都认作丢档。
 
-先检查自动化与店铺供应设置，再记录新版本下的收获周期。[官方 Update 5](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678000)和[更新摘要](/zh/guides/patch-notes/)可用于核对版本变化。
+## 怎样供应店铺？
+给对应店铺开启 **Use Greenhouse Stock**。Update 6 补货消息会标明温室、商贩或两者混合。采购与成本疑问见[经理支出排查](/zh/guides/manager-money-drain/)和[店铺设置](/zh/guides/venue-management-settings/)。
 
-<details>
-<summary>资料说明与来源</summary>
+## 自种和购买怎样比较？
+记录完整种植周期的种子与运行成本、模块数量、游戏内耗时和可用收获，用相同单位填入[收获规划器](/zh/tools/greenhouse-simulator/)。估算依赖输入，不代表已验证的隐藏气候公式。读档后食物保存见[食物与配方修复](/zh/guides/cuisine-recipes/)。
 
-
-
-- [官方 October 5 update](https://steamcommunity.com/app/1488490/announcements/?l=english)
-
-</details>
+## 来源
+[官方 Update 5 与 Update 6](https://steamcommunity.com/app/1488490/announcements/?l=english)，核验于 2026-10-28。游戏行为有来源，本页没有本站当前版本完整种植周期实测。

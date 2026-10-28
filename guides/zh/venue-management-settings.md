@@ -5,8 +5,8 @@ category: "Business"
 badge: "玩家攻略"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-15"
-updatedDate: "2026-10-16"
-reviewDate: "2026-10-15"
+updatedDate: "2026-10-28"
+reviewDate: "2026-10-28"
 lang: "zh"
 ---
 
@@ -30,6 +30,12 @@ lang: "zh"
 
 ## 比较运营成本
 把实际原料支出、工资和租金填入[利润规划器](/zh/tools/business-calculator/)。仍然亏损时参考[经理支出排查](/zh/guides/manager-money-drain/)。
+
+
+## Update 6：温室来源与晚间营业
+开启 Use Greenhouse Stock 后，经理先用温室库存，不足再买；补货消息会标明温室、商贩或混合来源。不要仅凭财务食材成本判断重复扣款，具体对照见[经理支出排查](/zh/guides/manager-money-drain/)。
+
+玩家睡觉后，宵禁前的晚间仍会营业、服务并支付员工工资，比较预算时应覆盖同一完整时段。[官方 Update 6](https://steamcommunity.com/app/1488490/announcements/?l=english)，核验于 2026-10-28；本页旧补货目标表仍注明其 Update 4 来源。
 
 <details>
 <summary>资料说明与来源</summary>
